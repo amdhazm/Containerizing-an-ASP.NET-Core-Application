@@ -1,8 +1,2 @@
-# directories
-**/bin/
-**/obj/
-**/out/
-
-# files
-Dockerfile*
-**/*.md
+[b|B]in
+[o|O]bj
