@@ -55,10 +55,6 @@ The `.dockerignore` file is used to specify which files and directories should b
 
 This guide explains how to build the Docker image for your ASP.NET Core application and run the container with port 8080 active.
 
-## Prerequisites
-
-- Docker installed on your machine. You can download Docker from [here](https://www.docker.com/get-started).
-
 ## Building the Docker Image
 
 To build the Docker image, follow these steps:
@@ -95,3 +91,4 @@ By following these steps, you can build and run your Docker container, making yo
 
 ## Conclusion
 
+Congratulations on successfully containerizing and running your ASP.NET Core application using Docker! This project has demonstrated how to leverage Docker to package your application into a portable and reproducible container environment.
